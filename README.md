@@ -28,6 +28,15 @@
   </a>
 </p>
 
+<img width="655" height="292" alt="Screenshot 2026-06-10 201033" src="https://github.com/user-attachments/assets/197497c5-718e-48b6-bf00-249a9055902a" />
+
+![](https://streak-stats.demolab.com/?user=ChejarlaVenkataKrishna&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChejarlaVenkataKrishna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=ChejarlaVenkataKrishna&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
 
