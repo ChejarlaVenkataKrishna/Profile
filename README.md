@@ -22,25 +22,25 @@
     <img src="https://img.shields.io/badge/CreditcardfraudDetection-1DA1F2?style=for-the-badge&logo=CreditcardfraudDetection&logoColor=white" />
   </a>
   <a href="https://github.com/ChejarlaVenkataKrishna/AI-Powered-Learning-Assistant-using-Streamlit-and-LLM-API/blob/main/streamlit_app.py" target="_blank">
-    <img src="https://img.shields.io/badge/AI Powered Learning Assistant-FF0000?style=for-the-badge&logo=AI Powered Learning Assistant&logoColor=white" />
+    <img src="https://img.shields.io/badge/AIPoweredLearningAssistant-FF0000?style=for-the-badge&logo=AIPoweredLearningAssistant&logoColor=white" />
   </a>
   <a href="https://github.com/ChejarlaVenkataKrishna/RAGPDF/blob/main/RAGpy.py" target="_blank">
     <img src="https://img.shields.io/badge/RAGPDF-1877F2?style=for-the-badge&logo=RAGPDF&logoColor=white" />
   </a>
   <a href="https://github.com/ChejarlaVenkataKrishna/Yield_Prediction" target="_blank">
-    <img src="https://img.shields.io/badge/Yield Prediction-6C63FF?style=for-the-badge&logo=Yield Prediction&logoColor=white" />
+    <img src="https://img.shields.io/badge/YieldPrediction-6C63FF?style=for-the-badge&logo=YieldPrediction&logoColor=white" />
   </a>
   <a href="https://github.com/ChejarlaVenkataKrishna/my-alexa" target="_blank">
-    <img src="https://img.shields.io/badge/Voice Assistant-6C63FF?style=for-the-badge&logo=Voice Assistant&logoColor=white" />
+    <img src="https://img.shields.io/badge/VoiceAssistant-6C63FF?style=for-the-badge&logo=VoiceAssistant&logoColor=white" />
   </a>
   <a href="https://github.com/ChejarlaVenkataKrishna/eye-mouse-controler" target="_blank">
-    <img src="https://img.shields.io/badge/Eye mouse controler-0077B5?style=for-the-badge&logo=Eye mouse controler&logoColor=white" />
+    <img src="https://img.shields.io/badge/Eyemousecontroler-0077B5?style=for-the-badge&logo=Eyemousecontroler&logoColor=white" />
   </a>
   <a href="https://github.com/ChejarlaVenkataKrishna/Advanced-AI-Ticketing-System" target="_blank">
-    <img src="https://img.shields.io/badge/AI Ticketing System-1877F2?style=for-the-badge&logo=AI Ticketing System&logoColor=white" />
+    <img src="https://img.shields.io/badge/AITicketingSystem-1877F2?style=for-the-badge&logo=AITicketingSystem&logoColor=white" />
   </a>
   <a href="https://github.com/ChejarlaVenkataKrishna/Student-perfomence-prediction" target="_blank">
-    <img src="https://img.shields.io/badge/Student Performence Prediction-1DA1F2?style=for-the-badge&logo=Student Performence Prediction&logoColor=white" />
+    <img src="https://img.shields.io/badge/StudentPerformencePrediction-1DA1F2?style=for-the-badge&logo=StudentPerformencePrediction&logoColor=white" />
   </a>
 </p>
 
