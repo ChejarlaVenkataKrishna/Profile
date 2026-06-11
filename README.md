@@ -13,6 +13,37 @@
 
 <img width="594" height="336" alt="Screenshot 2026-06-11 000725" src="https://github.com/user-attachments/assets/48eb3557-4f8c-4ce3-b189-86d24a9ee824" />
 
+# Projects
+<p align="left">
+  <a href="https://ai-powered-group-travel-planner.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/AIGroupTravelPlanner-0077B5?style=for-the-badge&logo=AIGroupTravelPlanner&logoColor=white" />
+  </a>
+  <a href="https://ai-powered-credit-card-fraud-detection-system-hxnhbewr4vicuyag.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/CreditcardfraudDetection-1DA1F2?style=for-the-badge&logo=CreditcardfraudDetection&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChejarlaVenkataKrishna/AI-Powered-Learning-Assistant-using-Streamlit-and-LLM-API/blob/main/streamlit_app.py" target="_blank">
+    <img src="https://img.shields.io/badge/AI Powered Learning Assistant-FF0000?style=for-the-badge&logo=AI Powered Learning Assistant&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChejarlaVenkataKrishna/RAGPDF/blob/main/RAGpy.py" target="_blank">
+    <img src="https://img.shields.io/badge/RAGPDF-1877F2?style=for-the-badge&logo=RAGPDF&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChejarlaVenkataKrishna/Yield_Prediction" target="_blank">
+    <img src="https://img.shields.io/badge/Yield Prediction-6C63FF?style=for-the-badge&logo=Yield Prediction&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChejarlaVenkataKrishna/my-alexa" target="_blank">
+    <img src="https://img.shields.io/badge/Voice Assistant-6C63FF?style=for-the-badge&logo=Voice Assistant&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChejarlaVenkataKrishna/eye-mouse-controler" target="_blank">
+    <img src="https://img.shields.io/badge/Eye mouse controler-0077B5?style=for-the-badge&logo=Eye mouse controler&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChejarlaVenkataKrishna/Advanced-AI-Ticketing-System" target="_blank">
+    <img src="https://img.shields.io/badge/AI Ticketing System-1877F2?style=for-the-badge&logo=AI Ticketing System&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChejarlaVenkataKrishna/Student-perfomence-prediction" target="_blank">
+    <img src="https://img.shields.io/badge/Student Performence Prediction-1DA1F2?style=for-the-badge&logo=Student Performence Prediction&logoColor=white" />
+  </a>
+</p>
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkatakrishnachejarla@gmail.com) 
 
